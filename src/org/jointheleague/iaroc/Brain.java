@@ -24,8 +24,7 @@ public class Brain extends IRobotCreateAdapter {
 
     /* This method is executed when the robot first starts up. */
     public void initialize() throws ConnectionLostException {
-
-
+        
     }
 
     /* This method is called repeatedly. */
